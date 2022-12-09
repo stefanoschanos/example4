@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "nodemon": "^2.0.4",
-    "ronin-mocks": "^0.1.6",
+    "ronin-mocks": "^0.1.11",
     "ronin-server": "^0.1.2",
     "express-fileupload": "^0.0.5"
   }
